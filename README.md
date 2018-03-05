@@ -1,7 +1,10 @@
 # Starter Web Repo
 
-## Intro
 This repository is for showing how Git and GitHub work
+
+
+## Intorduction
+Simple intoduction about the files
 
 ## Purpose
 
