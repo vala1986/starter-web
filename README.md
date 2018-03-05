@@ -13,3 +13,6 @@ Sample website with plenty of files for demos
 ##CopyRight
 
 copyright
+
+### How to contribute
+Please fork this
