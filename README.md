@@ -12,7 +12,8 @@ Sample website with plenty of files for demos
 
 ##CopyRight
 
-copyright
+copyright, More changes from feature branch
+
 
 ### How to contribute
 Please fork this adding more text to reabase
