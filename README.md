@@ -9,3 +9,7 @@ Simple intoduction about the files
 ## Purpose
 
 Sample website with plenty of files for demos
+
+##CopyRight
+
+copyright
